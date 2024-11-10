@@ -1,5 +1,8 @@
 # Ogogo Education
 
+Landing page: https://www.ogogoacademy.kg/
+Dashboard: https://www.ogogoacademy.kg/dashboard
+
 ## Features:
 
 ### 1. Landing Page:
